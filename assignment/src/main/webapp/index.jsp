@@ -1,5 +1,5 @@
-<html>
+h<html>
 <body>
-<h2>Hello World!</h2>
+<h2>My Declarative Pipeline worked!</h2>
 </body>
 </html>
