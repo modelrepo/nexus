@@ -18,4 +18,16 @@
   <build>
     <finalName>assignment</finalName>
   </build>
+  <distributionManagement>
+  <repository>
+  <id>nexus-site</id>
+  <name>demo-RELEASE</name>
+  <url>http://13.71.99.197:8081/repository/demo-RELEASE/</url>
+  </repository>
+  <snapshotRepository>
+  <id>nexus-site</id>
+  <name>demo-SNAPSHOT</name>
+  <url>http://13.71.99.197:8081/repository/demo-SNAPSHOT/</url>
+  </snapshotRepository>
+  </distributionManagement>
 </project>
